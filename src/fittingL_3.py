@@ -40,3 +40,6 @@ rsqaured6 = polyfit(L_list,IL_list,6)['determination']
 
 #print(rsqaured4,rsqaured5,rsqaured6)
 print(rsqaured4)
+
+
+# try 1
